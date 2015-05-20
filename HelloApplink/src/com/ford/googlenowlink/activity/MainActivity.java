@@ -2,7 +2,7 @@ package com.ford.googlenowlink.activity;
 
 import com.ford.googlenowlink.applink.AppLinkActivity;
 import com.ford.googlenowlink.applink.AppLinkApplication;
-import com.ford.helloapplink.R;
+import com.ford.googlenowlink.R;
 
 import android.os.Bundle;
 import android.util.Log;

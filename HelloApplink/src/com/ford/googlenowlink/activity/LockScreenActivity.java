@@ -1,7 +1,7 @@
 package com.ford.googlenowlink.activity;
 
 import com.ford.googlenowlink.applink.AppLinkService;
-import com.ford.helloapplink.R;
+import com.ford.googlenowlink.R;
 import com.ford.syncV4.proxy.SyncProxyALM;
 
 import android.app.Activity;
